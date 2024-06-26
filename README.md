@@ -7,7 +7,7 @@ Front End , Back End Developer
 You can call me Arm and I am studying Computer Science at King Mongkut's University of Technology North Bangkok.
 
 * 🌍  I'm based in Bankkok, Thailand
-* ✉️  You can contact me at [Suphanat.chanlek@gmail.com](mailto:Suphanat.chanlek@gmail.com)
+* ✉️  You can contact me at [Suphanatchanlek@gmail.com](mailto:Suphanat.chanlek@gmail.com)
 
 ### Skills
 
