@@ -1,7 +1,7 @@
 Hi 👋 My name is Suphanat Chanlek
 =================================
 
-Front End , Back End Developer, FullStack Developer
+Front End, Back End Developer, FullStack Developer
 ------------------------------
 
 You can call me Arm and I am studying Computer Science at Thammasat University.
