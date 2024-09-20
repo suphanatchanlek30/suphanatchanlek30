@@ -1,6 +1,7 @@
 <h1 align="center">Hi I'm Suphanat</h1>
 <h3 align="center">I am studying in the Department of Computer Science at Thammasat University</h3>
 
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suphanatchanlek30&theme=default&show_icons=true" alt="GitHub Stats" width="350">
   &nbsp;&nbsp;&nbsp;&nbsp;
