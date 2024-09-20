@@ -1,6 +1,4 @@
-# Hi, I'm Suphanat Chanlek
-
-<h1 align="center">Hi 👋, I'm itgoyo</h1>
+<h1 align="center">Hi I'm Suphanat</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -8,7 +6,7 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=suphanatchanlek30&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
