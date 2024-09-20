@@ -3,5 +3,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suphanatchanlek30&theme=holi&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suphanatchanlek30&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suphanatchanlek30&layout=compact)
 
