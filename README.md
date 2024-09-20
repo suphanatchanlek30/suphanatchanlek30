@@ -4,6 +4,8 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=suphanatchanlek30&theme=holi&show_icons=true" alt="GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suphanatchanlek30&layout=compact" alt="Top Languages"></td>
+  </tr>
+  <tr>
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suphanatchanlek30&layout=compact" alt="Top Languages"></td>
   </tr>
 </table>
