@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm Suphanat</h1>
-<h3 align="center">I am studying in the Department of Computer Science at Thammasat University</h3>
+<h1 align="center">Hi 👋🏻 I'm Suphanat</h1>
+<h3 align="center">I am studying in the Department of Computer Science 💻 at Thammasat University</h3>
 
 <br>
 <p align="center">
