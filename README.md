@@ -4,7 +4,6 @@
 <p align="center">
   <a href="mailto:suphanatchanlek@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/suphanat-chanlek-944802305/">LinkedIn</a> •
-  <a href="https://github.com/suphanatchanlek30">GitHub</a> •
   <a href="https://portfolio-suphanat-chanlek-30.vercel.app/">Portfolio</a>
 </p>
 
