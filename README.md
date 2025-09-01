@@ -5,12 +5,13 @@
   <a href="mailto:suphanatchanlek@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/suphanat-chanlek-944802305/">LinkedIn</a> •
   <a href="https://github.com/suphanatchanlek30">GitHub</a>
+  <a href="https://portfolio-suphanat-chanlek-30.vercel.app/">Portfolio</a>
 </p>
 
 ---
 
 ### 👨🏻‍💻 About Me
-- 🎓 2nd-year Computer Science student (GPA 3.42)  
+- 🎓 2nd-year Computer Science student
 - 💻 Passionate about **Full-Stack Development** & **AI/ML**  
 - 🏆 Hackathon Winner (SSPI 2024) + multiple competitions  
 - 🚀 Currently looking for **Full-Stack Developer Internship**
