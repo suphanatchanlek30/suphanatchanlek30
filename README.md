@@ -68,5 +68,5 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-mu-brown-95.vercel.app/api?username=suphanatchanlek30&theme=swift&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats-seven-lac-28.vercel.app/api/top-langs/?username=suphanatchanlek30&layout=compact&theme=swift" height="160"/>
+  <img src="https://github-readme-stats-mu-brown-95.vercel.app/api/top-langs/?username=suphanatchanlek30&layout=compact&theme=swift" height="160"/>
 </p>
