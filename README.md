@@ -16,7 +16,15 @@
 ---
 
 ### 🏆 Achievement
-- 🏆 Hackathon Winner (SSPI 2024) + multiple competitions  
+- 🏆 Winner | Sci Soft Power Hackathon 2024 by Science and Technology Thammasat University
+- 🏆 1st Runner-up | Sony Smart Factory Hackathon 2025 by Sony device technology (thailand) 
+- 🏆 1st Runner-up | Digital Innovation Workshop & Hackathon 2023 by TATA Consultancy
+- 🏆 Rookie Star | Axtra Mile Hackathon 2025 by CP AXTRA
+- 🏆 Selected Participant | Young Webmaster Camp 20 Track Programming by Thai Webmaster Association
+- 🏆 Finalist | SCGJWD Next Gen Logistics 2025 Hackathon by SCG JWD
+- 🏆 Finalist | 7-ELEVEN YOUNG GENIVERSITY 2025 Hackathon by CPALL & 7-ELEVEN
+- 🏆 Finalist | GHB Open Innovation 2025 Hackathon by GHBank
+- 🏆 Finalist | Mega Trend Meta Learning 2024 Hackathon by OKMD
 
 ---
 
