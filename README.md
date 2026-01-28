@@ -31,5 +31,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-mu-brown-95.vercel.app/api?username=suphanatchanlek30&theme=swift&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats-mu-brown-95.vercel.app/api?username=suphanatchanlek30&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160"/>
   <img src="https://github-readme-stats-mu-brown-95.vercel.app/api/top-langs/?username=suphanatchanlek30&layout=compact&theme=swift&include_forks=false&hide=html,css,python&cache_seconds=1800" height="160"/>
 </p>
