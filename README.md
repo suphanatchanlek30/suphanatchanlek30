@@ -12,6 +12,15 @@
 
 ---
 
+## 🚀 What I Build:
+- Production web applications with modern architecture
+- Clean, scalable backend APIs (Go / Spring Boot / Node)
+- High-performance frontend systems (Next.js + TypeScript)
+- AI pipelines for medical image segmentation
+- Dockerized, deployable systems ready for real users
+  
+---
+
 ## 🏆 Achievement
 - 🥇 Winner | Sci Soft Power Hackathon 2024 by Science and Technology Thammasat University
 - 🥈 1st Runner-up | Sony Smart Factory Hackathon 2025 by Sony device technology (thailand) 
