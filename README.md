@@ -20,8 +20,8 @@
 
 
 ## 🏆 Achievement
-- 🥇 Winner | Sci Soft Power Hackathon 2024 by Science and Technology Thammasat University
-- 🥈 1st Runner-up | Sony Smart Factory Hackathon 2025 by Sony device technology (thailand) 
+- 🥇 **Winner** | Sci Soft Power Hackathon 2024 by Science and Technology Thammasat University
+- 🥈 **1st Runner-up** | Sony Smart Factory Hackathon 2025 by Sony device technology (thailand) 
 - 🥈 1st Runner-up | Digital Innovation Workshop & Hackathon 2023 by TATA Consultancy
 - 🏅 Rookie Star | Axtra Mile Hackathon 2025 by CP AXTRA
 - 💻 Selected Participant | Young Webmaster Camp 20 Track Programming by Thai Webmaster Association
