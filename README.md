@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋🏻 I'm Suphanat</h1>
-<h3 align="center">Computer Science Student @ Thammasat University</h3>
+<h1 align="left">Hi 👋🏻 I'm Suphanat</h1>
 
 ---
 
 ## 👨🏻‍💻 About Me
-- 🎓 2nd-year Computer Science student
+- 🎓 2nd-year Computer Science student @ Thammasat University
 - 💻 Passionate about **Full-Stack Development** & **AI/ML**  
 - 🚀 Currently looking for **Full-Stack Developer Internship**
 
