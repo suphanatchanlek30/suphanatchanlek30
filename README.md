@@ -60,20 +60,6 @@
 <p align="center">
   <!-- <img src="https://github-readme-stats-mu-brown-95.vercel.app/api?username=suphanatchanlek30&theme=swift&show_icons=true" height="160"/> -->
   <img src="https://github-readme-stats-mu-brown-95.vercel.app/api?username=suphanatchanlek30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=86400" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=suphanatchanlek30&theme=dark&hide_border=false&cache_seconds=86400" height="160"/>
   <img src="https://github-readme-stats-mu-brown-95.vercel.app/api/top-langs/?username=suphanatchanlek30&layout=compact&theme=dark&hide_border=false&include_forks=false&hide=html,css,python&cache_seconds=86400" height="160"/>
-</p>
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suphanatchanlek30&theme=dark&hide_border=false"/>
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suphanatchanlek30&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suphanatchanlek30&theme=github-dark"/>
 </p>
