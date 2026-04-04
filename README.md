@@ -27,6 +27,7 @@
 - 🏅 **Rookie Star** | Axtra Mile Hackathon 2025 by CP AXTRA
 - 💻 **Selected Participant** | Young Webmaster Camp 20 Track Programming by Thai Webmaster Association
 - 🪪 **Young Leaders Program** | Certificate Presentation Ceremony for Outstanding Students of the Faculty of Science and Technology
+- 🪪 **ATOMIX** | Certificate Presentation Ceremony for Outstanding Student Leaders of the Faculty of Science and Technology
 - 🎗️ **Finalist** | SCGJWD Next Gen Logistics 2025 Hackathon by SCG JWD
 - 🎗️ **Finalist** | 7-ELEVEN YOUNG GENIVERSITY 2025 Hackathon by CPALL & 7-ELEVEN
 - 🎗️ **Finalist** | GHB Open Innovation 2025 Hackathon by GHBank
