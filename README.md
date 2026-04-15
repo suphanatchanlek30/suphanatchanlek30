@@ -9,7 +9,7 @@
 
 ## 🚀 What I Build:
 - Production web applications with modern architecture
-- Clean, scalable backend APIs **( Go Fiber / Java Spring Boot / Python / FastAPI / Node / Express )**
+- Clean, scalable backend APIs **( Go Fiber / Java Spring Boot / Python FastAPI / Node Express )**
 - High-performance frontend systems **( React.js, Next.js + TypeScript )**
 - AI pipelines for medical image segmentation
 - Dockerized, deployable systems ready for real users
