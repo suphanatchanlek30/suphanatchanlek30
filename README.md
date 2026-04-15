@@ -63,6 +63,6 @@
   <!-- <img src="https://github-readme-stats-mu-brown-95.vercel.app/api?username=suphanatchanlek30&theme=swift&show_icons=true" height="160"/> -->
   <img src="https://github-readme-stats-mu-brown-95.vercel.app/api?username=suphanatchanlek30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=86400" height="160"/>
   <!-- <img src="https://github-readme-stats-mu-brown-95.vercel.app/api/top-langs/?username=suphanatchanlek30&layout=compact&theme=dark&hide_border=false&include_forks=false&hide=html,css,python&cache_seconds=86400" height="160"/> -->
-  <img src="https://github-readme-stats-mu-brown-95.vercel.app/api/top-langs/?username=suphanatchanlek30&layout=compact&theme=dark&hide_border=false&include_forks=false&hide=html,css,dockerfile,shell&count_weight=0.9&size_weight=0.1&langs_count=7&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-stats-mu-brown-95.vercel.app/api/top-langs/?username=suphanatchanlek30&layout=compact&theme=dark&hide_border=false&include_forks=true&count_private=true&hide=html,css,dockerfile,shell,c%2B%2B&langs_count=7&count_weight=0.85&size_weight=0.15&cache_seconds=86400" height="160"/>
   <img src="https://streak-stats.demolab.com?user=suphanatchanlek30&theme=dark&hide_border=false&cache_seconds=86400" height="160"/>
 </p>
