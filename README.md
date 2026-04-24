@@ -61,8 +61,8 @@
 - 🏅 Certificate | Passed Baseline – Sleep Stage Classification (Kaggle Hackathon) by Super AI Engineer SS6
 - 🏅 Certificate | Passed Baseline – Heart Disease Prediction (Kaggle Hackathon) by Super AI Engineer SS6
 - 🏅 Certificate | Passed Baseline – Data Cleansing, EDA & Data Visualization Hackathon by Super AI Engineer SS6
-- 🏅 Certificate | Passed Baseline – Agentic Pipeline Hackathon by Super AI Engineer SS6
-- 🏅 Certificate | Passed Baseline – RAG Hackathon by Super AI Engineer SS6
+- 🏅 Certificate | Passed Baseline – Agentic Pipeline (Kaggle Hackathon) by Super AI Engineer SS6
+- 🏅 Certificate | Passed Baseline – RAG (Kaggle Hackathon) by Super AI Engineer SS6
 
 
 ## 💻 Tech Stack:
