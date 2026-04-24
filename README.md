@@ -24,8 +24,7 @@
 **Thammasat University – Lab Tonkit** | *May 2025 – Present*  
 - Contributed to the **PADIN Project**, a joint research between Osaka University & Thammasat University, developing AI-powered dental X-ray diagnostic tools.  
 - Built an ML backend using **SAM 2 (Segment Anything Model 2)** integrated with Label Studio, supporting federated learning; processed ~2,000 dental X-ray images/month.  
-- Developed and maintained the PADIN project website, improving accessibility for dental professionals and cross-disciplinary researchers.  
-- Designed and deployed a web application on **Render** to aggregate individual tooth labels into composite dental images using image processing techniques, improving annotation accuracy and workflow efficiency.
+- Developed and maintained the PADIN project website, improving accessibility for dental professionals and cross-disciplinary researchers.
   
 ### 💻 Frontend Developer (Intern)  
 **ASCEND CO., LTD.** | *Aug 2025 – Nov 2025*  
