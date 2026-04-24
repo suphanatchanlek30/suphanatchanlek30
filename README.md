@@ -27,6 +27,15 @@
 - Developed and maintained the PADIN project website, improving accessibility for dental professionals and cross-disciplinary researchers.
 
   > 🔬 Focus: AI for Healthcare, Federated Learning, Full-Stack Systems
+
+### 🤖 Super AI Engineer Season 6 (AIAT)  
+*Mar 2026 – Present*  
+
+- Selected participant in Thailand’s national **Super AI Engineer Season 6** program  
+- Completed **Level 1 (AI Fundamentals)** via AIAT MOOC (16 courses: ML, CV, NLP, RAG, etc.)  
+- Passed theoretical assessment and all training stages (Data → AI Model → LLM & RAG)  
+- Participated in **Kaggle Mini-Hackathons** (Heart Disease Prediction, House Recognition, Sleep Staging Classification), passing baseline criteria  
+- Currently in **Level 2 (Intensive AI Camp)**, working on real-world industry problems and advanced AI development  
   
 ### 💻 Frontend Developer (Intern)  
 **ASCEND CO., LTD.** | *Aug 2025 – Nov 2025*  
