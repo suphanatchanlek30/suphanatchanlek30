@@ -27,8 +27,6 @@
 - Developed and maintained the PADIN project website, improving accessibility for dental professionals and cross-disciplinary researchers.  
 - Designed and deployed a web application on **Render** to aggregate individual tooth labels into composite dental images using image processing techniques, improving annotation accuracy and workflow efficiency.
   
----
-
 ### 💻 Frontend Developer (Intern)  
 **ASCEND CO., LTD.** | *Aug 2025 – Nov 2025*  
 - Developed and deployed responsive web interfaces using **Next.js** and **Tailwind CSS** for production systems.  
