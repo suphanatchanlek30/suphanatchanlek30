@@ -56,6 +56,13 @@
 - 🎗️ **Finalist** | 7-ELEVEN YOUNG GENIVERSITY 2025 Hackathon by CPALL & 7-ELEVEN
 - 🎗️ **Finalist** | GHB Open Innovation 2025 Hackathon by GHBank
 - 🎗️ **Finalist** | Mega Trend Meta Learning 2024 Hackathon by OKMD
+- 🏅 Certificate | Super AI Engineer Season 6 – Foundation AI (Theory) by AIAT
+- 🏅 Certificate | Passed Baseline – House Recognition (Kaggle Hackathon) by Super AI Engineer SS6
+- 🏅 Certificate | Passed Baseline – Sleep Stage Classification (Kaggle Hackathon) by Super AI Engineer SS6
+- 🏅 Certificate | Passed Baseline – Heart Disease Prediction (Kaggle Hackathon) by Super AI Engineer SS6
+- 🏅 Certificate | Passed Baseline – Data Cleansing, EDA & Data Visualization Hackathon by Super AI Engineer SS6
+- 🏅 Certificate | Passed Baseline – Agentic Pipeline Hackathon by Super AI Engineer SS6
+- 🏅 Certificate | Passed Baseline – RAG Hackathon by Super AI Engineer SS6
 
 
 ## 💻 Tech Stack:
