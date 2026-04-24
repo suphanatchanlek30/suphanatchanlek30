@@ -25,6 +25,7 @@
 - Contributed to the **PADIN Project**, a joint research between Osaka University & Thammasat University, developing AI-powered dental X-ray diagnostic tools.  
 - Built an ML backend using **SAM 2 (Segment Anything Model 2)** integrated with Label Studio, supporting federated learning; processed ~2,000 dental X-ray images/month.  
 - Developed and maintained the PADIN project website, improving accessibility for dental professionals and cross-disciplinary researchers.
+
   > 🔬 Focus: AI for Healthcare, Federated Learning, Full-Stack Systems
   
 ### 💻 Frontend Developer (Intern)  
