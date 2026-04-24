@@ -18,6 +18,22 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphanat-chanlek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suphanatchanlek@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/suphanatttt/) [![Facebook](https://img.shields.io/badge/Facebook-%230007B5.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/suphanat.chanlek) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-suphanat-chanlek-30.vercel.app/)
 
+## 💼 Experience
+
+### 🧠 Undergraduate Researcher (AI & Software Engineering)  
+**Thammasat University – Lab Tonkit** | *May 2025 – Present*  
+- Contributed to the **PADIN Project**, a joint research between Osaka University & Thammasat University, developing AI-powered dental X-ray diagnostic tools.  
+- Built an ML backend using **SAM 2 (Segment Anything Model 2)** integrated with Label Studio, supporting federated learning; processed ~2,000 dental X-ray images/month.  
+- Developed and maintained the PADIN project website, improving accessibility for dental professionals and cross-disciplinary researchers.  
+- Designed and deployed a web application on **Render** to aggregate individual tooth labels into composite dental images using image processing techniques, improving annotation accuracy and workflow efficiency.
+  
+---
+
+### 💻 Frontend Developer (Intern)  
+**ASCEND CO., LTD.** | *Aug 2025 – Nov 2025*  
+- Developed and deployed responsive web interfaces using **Next.js** and **Tailwind CSS** for production systems.  
+- Integrated frontend components with backend APIs, ensuring smooth real-world deployments.  
+- Collaborated with design teams to translate **Figma mockups** into high-fidelity, production-ready UI.  
 
 
 ## 🏆 Achievement
