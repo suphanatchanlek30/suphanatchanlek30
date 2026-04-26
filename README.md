@@ -18,6 +18,12 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphanat-chanlek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suphanatchanlek@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/suphanatttt/) [![Facebook](https://img.shields.io/badge/Facebook-%230007B5.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/suphanat.chanlek) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-suphanat-chanlek-30.vercel.app/)
 
+## 🏅 Certifications
+
+[![AWS Academy Cloud Foundations](https://www.credly.com/badges/f41d6a75-3f0a-4803-bd19-1244328879da/public_url)](https://www.credly.com/badges/your-badge-link)
+
+**AWS Academy Graduate - Cloud Foundations**
+
 ## 💼 Experience
 
 ### 🧠 Undergraduate Researcher (AI & Software Engineering)  
