@@ -63,6 +63,7 @@
 - 🏅 Certificate | Passed Baseline – Data Cleansing, EDA & Data Visualization Hackathon by Super AI Engineer SS6
 - 🏅 Certificate | Passed Baseline – Agentic Pipeline (Kaggle Hackathon) by Super AI Engineer SS6
 - 🏅 Certificate | Passed Baseline – RAG (Kaggle Hackathon) by Super AI Engineer SS6
+- 🪪 Certificate | AWS Academy Graduate - Cloud Foundations - Training Badge
 
 
 ## 💻 Tech Stack:
