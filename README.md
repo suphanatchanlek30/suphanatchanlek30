@@ -20,7 +20,7 @@
 
 ## 🏅 Certifications
 
-[![AWS Academy Cloud Foundations](https://www.credly.com/badges/f41d6a75-3f0a-4803-bd19-1244328879da/public_url)](https://www.credly.com/badges/your-badge-link)
+[![AWS Academy Cloud Foundations](https://images.credly.com/images/xxxx.png)](https://www.credly.com/badges/f41d6a75-3f0a-4803-bd19-1244328879da/public_url)
 
 **AWS Academy Graduate - Cloud Foundations**
 
