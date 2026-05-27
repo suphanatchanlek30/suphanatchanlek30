@@ -60,7 +60,7 @@
 - 🥇 **Winner** | Coffee Chain Hackathon - Demand Forecasting at Scale 2026 by Super AI Engineer Season 6 x ExpresSo NB
 - 🥈 **1st Runner-up** | Sony Smart Factory Hackathon 2025 by Sony device technology (Thailand) 
 - 🥈 **1st Runner-up** | Digital Innovation Workshop & Hackathon 2023 by TATA Consultancy
-- 🥈 **2st Runner-up** | Edge-AI for Intelligence Transport System Hackathon 2026 by NT
+- 🥉 **2st Runner-up** | Edge-AI for Intelligence Transport System Hackathon 2026 by NT
 - 🏅 **Rookie Star** | Axtra Mile Hackathon 2025 by CP AXTRA
 - 💻 **Selected Participant** | Young Webmaster Camp 20 Track Programming by Thai Webmaster Association
 - 🪪 **Young Leaders Program** | Certificate Presentation Ceremony for Outstanding Students of the Faculty of Science and Technology
