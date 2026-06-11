@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋🏻 I'm Suphanat</h1>
 
 ## 👨🏻‍💻 About Me
-- 🎓 2nd-year Computer Science student @ Thammasat University
+- 🎓 3nd-year Computer Science student @ Thammasat University
 - 💻 Passionate about **Full-Stack Development** & **AI/ML**
 - 🚀 Currently looking for **Machine Learning / AI Engineering Internship**
 - 🚀 Currently looking for **Software Engineer Internship**
