@@ -31,6 +31,10 @@
 
 ## 💼 Experience
 
+### 💻 Application Developer (Intern)  
+**T.C.C. Technology CO., LTD.** | *June 2026 – Present*  
+- Backend Developer
+
 ### 🧠 Undergraduate Researcher (AI & Software Engineering)  
 **Thammasat University – Lab Tonkit** | *May 2025 – Present*  
 - Contributed to the **PADIN Project**, a joint research between Osaka University & Thammasat University, developing AI-powered dental X-ray diagnostic tools.  
