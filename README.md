@@ -82,6 +82,7 @@
 - 🏅 Certificate | Passed Baseline – RAG (Kaggle Hackathon) by Super AI Engineer SS6
 - 🪪 Certificate | AWS Academy Graduate - Cloud Foundations - Training Badge
 - 🪪 Certificate | AI Ready ASEAN – AI Learning Completion (Google.org x ASEAN Foundation)
+- 🪪 Certificate | Bootcamp 2026 Databricks : Data Engineer by Gosoft (Thailand)
 
 
 ## 💻 Tech Stack:
