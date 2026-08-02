@@ -2,10 +2,11 @@
 
 ## 👨🏻‍💻 About Me
 - 🎓 3rd-year Computer Science student @ Thammasat University
-- 💻 Passionate about **Full-Stack Development** & **AI/ML**
-- 🚀 Currently looking for **Machine Learning / AI Engineering Internship**
+- 💻 Passionate about **Full-Stack Development** & **DevOps Engineer** & **AI/ML**
+- 🚀 Currently looking for **DevOps Engineer Internship**
 - 🚀 Currently looking for **Software Engineer Internship**
-  
+- 🚀 Currently looking for **Machine Learning / AI Engineering Internship**
+
 
 ## 🚀 What I Build:
 - Production web applications with modern architecture
