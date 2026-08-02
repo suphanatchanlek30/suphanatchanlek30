@@ -32,7 +32,7 @@
 
 ## 💼 Experience
 
-### 💻 Application Developer (Internship & Part-Time)
+### 💻 Application Developer (Internship)
 **T.C.C. Technology CO., LTD.** | *June 2026 – Present*
 - Developed backend APIs and business logic for **SOOK**, a food delivery platform, on microservices architecture
 - Diagnosed slow queries in production and proposed source-code-level optimizations
