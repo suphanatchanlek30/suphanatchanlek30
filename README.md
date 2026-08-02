@@ -31,9 +31,12 @@
 
 ## 💼 Experience
 
-### 💻 Application Developer (Intern)  
-**T.C.C. Technology CO., LTD.** | *June 2026 – Present*  
-- Backend Developer
+### 💻 Application Developer (Internship & Part-Time)
+**T.C.C. Technology CO., LTD.** | *June 2026 – Present*
+- Developed backend APIs and business logic for **SOOK**, a food delivery platform, on microservices architecture
+- Diagnosed slow queries in production and proposed source-code-level optimizations
+- Fixed memory leaks and added APM tracing to improve stability and monitoring
+- Designed a safe migration plan to refactor a legacy coupon/promotion system
 
 ### 🧠 Undergraduate Researcher (AI & Software Engineering)  
 **Thammasat University – Lab Tonkit** | *May 2025 – Present*  
