@@ -38,6 +38,14 @@
 - Fixed memory leaks and added APM tracing to improve stability and monitoring
 - Designed a safe migration plan to refactor a legacy coupon/promotion system
 
+### 🤖 AI / MLOps Engineer (Internship)
+**CONNECTED TECH CO., LTD.** | *June 2026 – August 2026*
+- Built a real-time PPE detection service for Mac mini M4 edge deployment
+- Developed the full vision pipeline: pose estimation, tracking, ROI extraction, classification
+- Curated an 18,219-crop dataset and benchmarked 4 backbones on multi-GPU (0.961 macro-F1)
+- Integrated with an external platform over MQTT with outbox/retry resilience
+- Built visual debug tooling that surfaced issues offline metrics had missed
+
 ### 🧠 Undergraduate Researcher (AI & Software Engineering)  
 **Thammasat University – Lab Tonkit** | *May 2025 – Present*  
 - Contributed to the **PADIN Project**, a joint research between Osaka University & Thammasat University, developing AI-powered dental X-ray diagnostic tools.  
