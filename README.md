@@ -40,7 +40,7 @@
 - Designed a safe migration plan to refactor a legacy coupon/promotion system
 
 ### 🤖 AI / MLOps Engineer (Internship)
-**CONNECTED TECH CO., LTD.** | *August 2026 – Sep 2026*
+**CONNECTED TECH CO., LTD.** | *July 2026 – Sep 2026*
 - Built AEGIS, an edge PPE-compliance detection system (Mac mini M4) reaching 0.962 macro-F1 at 23.6 FPS.
 -	Designed the vision pipeline: pose estimation → tracking → ROI extraction → classification → decision fusion.
 -	Benchmarked 4 backbones on a self-curated 23,622-crop dataset; selected EfficientNet-B0 for fewest errors.
