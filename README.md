@@ -57,7 +57,7 @@
   > 🔬 Focus: AI for Healthcare, Federated Learning, Full-Stack Systems
 
 ### 🤖 Super AI Engineer Season 6
-**Artificial Intelligence Association of Thailand (AIAT)** | *Mar 2026 – Present*  
+**Artificial Intelligence Association of Thailand (AIAT)** | *Mar 2026 – Sep 2026*  
 
 - Selected participant in Thailand’s national **Super AI Engineer Season 6** program  
 - Completed **Level 1 (AI Fundamentals)** via AIAT MOOC (16 courses: ML, CV, NLP, RAG, etc.)  
