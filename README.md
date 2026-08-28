@@ -40,12 +40,13 @@
 - Designed a safe migration plan to refactor a legacy coupon/promotion system
 
 ### 🤖 AI / MLOps Engineer (Internship)
-**CONNECTED TECH CO., LTD.** | *June 2026 – August 2026*
-- Built a real-time PPE detection service for Mac mini M4 edge deployment
-- Developed the full vision pipeline: pose estimation, tracking, ROI extraction, classification
-- Curated an 18,219-crop dataset and benchmarked 4 backbones on multi-GPU (0.961 macro-F1)
-- Integrated with an external platform over MQTT with outbox/retry resilience
-- Built visual debug tooling that surfaced issues offline metrics had missed
+**CONNECTED TECH CO., LTD.** | *August 2026 – Sep 2026*
+- Built AEGIS, an edge PPE-compliance detection system (Mac mini M4) reaching 0.962 macro-F1 at 23.6 FPS.
+-	Designed the vision pipeline: pose estimation → tracking → ROI extraction → classification → decision fusion.
+-	Benchmarked 4 backbones on a self-curated 23,622-crop dataset; selected EfficientNet-B0 for fewest errors.
+-	Closed the real-world accuracy gap via calibration and hard-negative mining, boosting glove F1 from 0.70 → 0.86.
+-	Shipped MQTT integration with outbox/retry resilience for reliable edge-to-cloud delivery.
+-	Built visual debug tooling that surfaced real-world failure modes offline metrics had missed
 
 ### 🧠 Undergraduate Researcher (AI & Software Engineering)  
 **Thammasat University – Lab Tonkit** | *May 2025 – Present*  
