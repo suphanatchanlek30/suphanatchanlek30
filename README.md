@@ -33,7 +33,7 @@
 ## 💼 Experience
 
 ### 💻 Application Developer (Internship)
-**T.C.C. Technology CO., LTD.** | *June 2026 – Present*
+**T.C.C. Technology CO., LTD.** | *June 2026 – Aug 2026*
 - Developed backend APIs and business logic for **SOOK**, a food delivery platform, on microservices architecture
 - Diagnosed slow queries in production and proposed source-code-level optimizations
 - Fixed memory leaks and added APM tracing to improve stability and monitoring
@@ -66,7 +66,7 @@
 - Completed **Level 2 (Intensive AI Camp)**, working on real-world industry problems and advanced AI development
 - Completed **Level 3 (AI Internship)**, gaining hands-on experience in real-world AI projects
   
-### 💻 Frontend Developer (Intern)  
+### 💻 Frontend Developer (Internship)  
 **ASCEND CO., LTD.** | *Aug 2025 – Nov 2025*  
 - Developed and deployed responsive web interfaces using **Next.js** and **Tailwind CSS** for production systems.  
 - Integrated frontend components with backend APIs, ensuring smooth real-world deployments.  
