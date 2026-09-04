@@ -76,6 +76,7 @@
 ## 🏆 Achievement
 - 🥇 **Winner** | Sci Soft Power Hackathon 2024 by Science and Technology Thammasat University
 - 🥇 **Winner** | Coffee Chain Hackathon - Demand Forecasting at Scale 2026 by Super AI Engineer Season 6 x ExpresSo NB
+- 🥈 **Silver Medal** | Super AI Engineer Season 6 by AIAT
 - 🥈 **1st Runner-up** | Sony Smart Factory Hackathon 2025 by Sony device technology (Thailand) 
 - 🥈 **1st Runner-up** | Digital Innovation Workshop & Hackathon 2023 by TATA Consultancy
 - 🥉 **2st Runner-up** | Edge-AI for Intelligence Transport System Hackathon 2026 by NT
