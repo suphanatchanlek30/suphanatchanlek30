@@ -57,14 +57,14 @@
   > 🔬 Focus: AI for Healthcare, Federated Learning, Full-Stack Systems
 
 ### 🤖 Super AI Engineer Season 6
-**Artificial Intelligence Association of Thailand (AIAT)** | *Mar 2026 – Sep 2026*  
+**Artificial Intelligence Association of Thailand (AIAT)** | *Mar 2026 – Sep 2026*
 
-- Selected participant in Thailand’s national **Super AI Engineer Season 6** program  
-- Completed **Level 1 (AI Fundamentals)** via AIAT MOOC (16 courses: ML, CV, NLP, RAG, etc.)  
-- Passed theoretical assessment and all training stages (Data → AI Model → LLM & RAG)  
-- Participated in **Kaggle Mini-Hackathons** (Heart Disease Prediction, House Recognition, Sleep Staging Classification), passing baseline criteria  
-- Completed **Level 2 (Intensive AI Camp)**, working on real-world industry problems and advanced AI development
-- Completed **Level 3 (AI Internship)**, gaining hands-on experience in real-world AI projects
+- Selected as 1 of 156 participants from 10,457+ applicants nationwide (top ~1.5%) for Thailand's national **Super AI Engineer Season 6** program
+- Completed **Level 1 (AI Fundamentals)** via AIAT MOOC (16 courses: ML, CV, NLP, RAG, etc.), passing all theoretical assessments across Data → AI Model → LLM & RAG stages
+- Completed **Level 2 (Intensive AI Camp)**, solving real-world industry problems and building advanced AI solutions under mentorship
+- Passed baseline criteria in multiple **Kaggle Mini-Hackathons** (Heart Disease Prediction, House Recognition, Sleep Stage Classification, and more)
+- Completed **Level 3 (AI Internship)**, gaining hands-on experience deploying AI systems in a real-world industry project
+- Awarded **Silver Medal** upon completing all 3 levels of the program
   
 ### 💻 Frontend Developer (Internship)  
 **ASCEND CO., LTD.** | *Aug 2025 – Nov 2025*  
