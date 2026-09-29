@@ -21,21 +21,9 @@
 
 
 <p align="center">
-  <a href="https://www.credly.com/badges/f41d6a75-3f0a-4803-bd19-1244328879da/public_url">
-    <img src="./assets/aws-badge.png" height="180" alt="AWS Academy Cloud Foundations"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.credly.com/badges/b67a832f-2f7a-4f62-b799-755fd3b90247/public_url">
-    <img src="./assets/aws-badge2.png" height="180" alt="AWS Academy Data Engineering"/>
-  </a>
-
-  <br><br>
-
-  <b>Cloud Foundations ☁️</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Data Engineering 📊</b>
+<a href="https://www.credly.com/badges/f41d6a75-3f0a-4803-bd19-1244328879da/public_url"><img src="./assets/aws-badge.png" width="180" alt="AWS Academy Cloud Foundations"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/b67a832f-2f7a-4f62-b799-755fd3b90247/public_url"><img src="./assets/aws-badge2.png" width="180" alt="AWS Academy Data Engineering"></a>
+<br>
+<strong>Cloud Foundations ☁️</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Data Engineering 📊</strong>
 </p>
 
 ## 💼 Experience
