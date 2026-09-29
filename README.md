@@ -84,6 +84,7 @@
 - 🎗️ **Finalist** | SCGJWD Next Gen Logistics 2025 Hackathon by SCG JWD
 - 🎗️ **Finalist** | 7-ELEVEN YOUNG GENIVERSITY 2025 Hackathon by CPALL & 7-ELEVEN
 - 🎗️ **Finalist** | GHB Open Innovation 2025 Hackathon by GHBank
+- 🎗️ **Finalist** | OIC InsurTech Award 2026 by OIC & CIT (Top 25 of 500+ teams)
 - 🎗️ **Finalist** | Mega Trend Meta Learning 2024 Hackathon by OKMD
 - 🏅 Certificate | Super AI Engineer Season 6 – Foundation AI (Theory) by AIAT
 - 🏅 Certificate | Passed Baseline – House Recognition (Kaggle Hackathon) by Super AI Engineer SS6
