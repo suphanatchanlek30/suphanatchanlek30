@@ -21,9 +21,9 @@
 
 
 <p align="center">
-<a href="https://www.credly.com/badges/f41d6a75-3f0a-4803-bd19-1244328879da/public_url"><img src="./assets/aws-badge.png" width="180" alt="AWS Academy Cloud Foundations"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/b67a832f-2f7a-4f62-b799-755fd3b90247/public_url"><img src="./assets/aws-badge2.png" width="180" alt="AWS Academy Data Engineering"></a>
+<a href="https://www.credly.com/badges/f41d6a75-3f0a-4803-bd19-1244328879da/public_url"><img src="./assets/aws-badge.png" width="180" alt="AWS Academy Cloud Foundations"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/YOUR-BADGE-ID/public_url"><img src="./assets/aws-badge3.png" width="180" alt="AWS Academy Cloud Architecting"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/b67a832f-2f7a-4f62-b799-755fd3b90247/public_url"><img src="./assets/aws-badge2.png" width="180" alt="AWS Academy Data Engineering"></a>
 <br>
-<strong>Cloud Foundations ☁️</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Data Engineering 📊</strong>
+<strong>Cloud Foundations ☁️</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Cloud Architecting 🏗️</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Data Engineering 📊</strong>
 </p>
 
 ## 💼 Experience
@@ -94,6 +94,7 @@
 - 🏅 Certificate | Passed Baseline – Agentic Pipeline (Kaggle Hackathon) by Super AI Engineer SS6
 - 🏅 Certificate | Passed Baseline – RAG (Kaggle Hackathon) by Super AI Engineer SS6
 - 🪪 Certificate | AWS Academy Graduate - Cloud Foundations - Training Badge
+- 🪪 Certificate | AWS Academy Graduate - Cloud Architecting - Training Badge
 - 🪪 Certificate | AWS Academy Graduate - Data Engineering - Training Badge
 - 🪪 Certificate | AI Ready ASEAN – AI Learning Completion (Google.org x ASEAN Foundation)
 - 🪪 Certificate | Bootcamp 2026 Databricks : Data Engineer by Gosoft (Thailand)
