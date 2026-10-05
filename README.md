@@ -8,12 +8,11 @@
 - 🚀 Currently looking for **Machine Learning / AI Engineering Internship**
 
 
-## 🚀 What I Build:
-- Production web applications with modern architecture
-- Clean, scalable backend APIs **( Go Fiber / Java Spring Boot / Python FastAPI / Node Express )**
-- High-performance frontend systems **( React.js, Next.js + TypeScript )**
-- AI pipelines for medical image segmentation
-- Dockerized, deployable systems ready for real users
+## 🚀 What I Build
+- 🖥️ **Full-Stack Systems** production web apps with scalable APIs (Go Fiber, Spring Boot, FastAPI, Express) and modern frontends (React, Next.js, TypeScript)
+- 🧩 **Microservices** backend services for a food delivery platform, with query optimization and APM tracing for production stability
+- 🤖 **AI & MLOps** vision pipelines from edge PPE detection (0.962 macro-F1, 23.6 FPS) to medical image segmentation with SAM 2
+- ☁️ **Cloud & DevOps** Dockerized systems on AWS (EC2, S3, CloudFront, RDS, DynamoDB, CloudFormation), ready for real users
   
 
 ## 🌐 Socials:
