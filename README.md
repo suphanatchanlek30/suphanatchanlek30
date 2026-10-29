@@ -22,7 +22,7 @@
 <p align="center">
 <a href="https://www.credly.com/badges/f41d6a75-3f0a-4803-bd19-1244328879da/public_url"><img src="./assets/aws-badge.png" width="180" alt="AWS Academy Cloud Foundations"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/759d8637-a0f4-43aa-a0b5-3c9f7a62eb27/public_url"><img src="./assets/aws-badge3.png" width="180" alt="AWS Academy Cloud Architecting"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/b67a832f-2f7a-4f62-b799-755fd3b90247/public_url"><img src="./assets/aws-badge2.png" width="180" alt="AWS Academy Data Engineering"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/f77503b8-c688-439c-9d64-468cdbbc0ef6/public_url"><img src="./assets/aws-badge4.png" width="180" alt="AWS Academy Graduate - Cloud Data Pipeline Builder - Training Badge"></a>
 <br>
-<strong>Cloud Foundations ☁️</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Cloud Architecting 🏗️</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Data Engineering 📊</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Cloud Data Pipeline 🔧</strong>
+<strong>Cloud Foundations ☁️</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Cloud Architecting 🏗️</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Data Engineering 📊</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Cloud Data Pipeline 🔧</strong>
 </p>
 
 ## 💼 Experience
