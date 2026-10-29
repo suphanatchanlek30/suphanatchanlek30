@@ -95,6 +95,7 @@
 - 🪪 Certificate | AWS Academy Graduate - Cloud Foundations - Training Badge
 - 🪪 Certificate | AWS Academy Graduate - Cloud Architecting - Training Badge
 - 🪪 Certificate | AWS Academy Graduate - Data Engineering - Training Badge
+- 🪪 Certificate | AWS Academy Graduate - Cloud Data Pipeline Builder - Training Badge
 - 🪪 Certificate | AI Ready ASEAN – AI Learning Completion (Google.org x ASEAN Foundation)
 - 🪪 Certificate | Bootcamp 2026 Databricks : Data Engineer by Gosoft (Thailand)
 - 🪪 Certificate | AI Practitioner by Super AI Engineer SS6
